@@ -9,7 +9,7 @@ See also:
 ## How to use
 
  1. Clone the repository.
- 2. Run ` composer install  `.
+ 2. Run `composer install`.
  3. Start the application: 
     ```bash 
     ./yii swoole start
