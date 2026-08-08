@@ -34,3 +34,10 @@ Shutdown the Swoole HTTP server:
 ```bash
 docker compose exec app ./yii swoole shutdown
 ```
+
+## Additional configuration has been added to the YII3 application template
+
+ 1. Added   "klsoft/yii3-swoole": "^1.0" to the `composer.json`.
+ 2. Added `Dockerfile`.
+ 3. Added `docker-compose.yml`.
+ 4. Modified `.dockerignore`.
