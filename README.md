@@ -1,6 +1,6 @@
 # YII3-SWOOLE-APP
 
-The repository contains the [YII3 application template](https://github.com/yiisoft/app), and the additional configuration required to run the  [Swoole](https://github.com/swoole/swoole-src) HTTP server.
+The repository contains the [YII3 application template](https://github.com/yiisoft/app) and the additional configuration required to run the  [Swoole](https://github.com/swoole/swoole-src) HTTP server.
 
 See also:
 
